@@ -61,3 +61,5 @@ The Winners: Employees with advanced degrees in Finance and Healthcare who saw a
 The Vulnerable: Workers in "Unchanged" roles with High School or Bachelor's degrees who are currently treading water—meeting current demands but lacking the AI integration needed to stay competitive.
 
 The Recommendations: Success in 2026 is defined by Upskilling Criticality. The project concludes that organizations must move beyond "Remote vs. Office" debates and instead focus on technical literacy and workflow redesign to bridge the gap for the 25% of the workforce currently at risk of stagnation.
+
+#Tableau #DataAnalytics #Project #DataVisualization #DataCollection #DataCleaning #DataModelling
