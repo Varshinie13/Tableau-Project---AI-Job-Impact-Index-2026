@@ -2,7 +2,8 @@
 
 🚀 AI Job Impact Index 2026: A Workforce Transformation Analysis
 
-📌 Project Overview
+📌 Project Overview:
+
   As AI continues to redefine the global economy, this project explores the tangible effects of automation on 2,000+ employees across diverse industries. By analyzing the relationship between education, salary shifts, and productivity gains, this dashboard serves as a strategic tool for workforce planning and upskilling initiatives.
 
 https://public.tableau.com/app/profile/varshinie.sivakumar/viz/Book1_17769644455700/AIJOBIMPACTINDEX2026
